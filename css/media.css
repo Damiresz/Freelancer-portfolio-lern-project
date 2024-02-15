@@ -1,0 +1,48 @@
+@media (max-width: 655px) {
+
+    .nav-row {
+        justify-content: space-between;
+    }
+    
+    .header {
+        min-height: unset;
+    }
+    .header-title {
+        font-size: 30px;
+    }
+    .header-title strong, .header-title em {
+        font-size: 40px;
+    }
+
+    .dark-mode-button {
+        order: 0;
+    }
+
+    .section {
+        padding: 40px 0;
+    }
+
+    .title-1 {
+        font-size: 40px;
+        margin-bottom: 30px;
+    }
+
+    .project__title {
+        font-size: 20px;
+    }
+
+    .footer {
+        padding: 40px 0 30px;
+    }
+
+    .soucial {
+        column-gap: 20px;
+    }
+
+    .soucial__item {
+        width: 28px;
+    }
+    .copyright {
+        font-size: 14px;
+    }
+}
